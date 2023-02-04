@@ -13,3 +13,9 @@ Bu repoyu YetGen Core Jump Python Eğitimi için açtım.
 - GitHub hesabı oluşturma
 - Markdown nedir ve README.md nasıl yazılır?
 
+## 2. Hafta Yaptığım Çalışmalar
+
+- Print fonksiyonu nedir, ne işe yarar ve parametreleri nelerdir?
+- Yorum satırları
+- Değikenler ve tanımlama kuralları
+- Type fonksiyonu
