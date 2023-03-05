@@ -19,3 +19,10 @@ Bu repoyu YetGen Core Jump Python Eğitimi için açtım.
 - Yorum satırları
 - Değikenler ve tanımlama kuralları
 - Type fonksiyonu
+
+## 3. Hafta Yaptığım Çalışmalar
+
+- Karşılaştırma operatörleri
+- Mantıksal operatörler
+- Karar yapıları
+- Döngüler
