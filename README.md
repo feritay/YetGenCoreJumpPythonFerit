@@ -26,3 +26,22 @@ Bu repoyu YetGen Core Jump Python Eğitimi için açtım.
 - Mantıksal operatörler
 - Karar yapıları
 - Döngüler
+
+## 4. Hafta Yaptığım Çalışmalar
+
+- Listeler
+- Liste metodları ve liste toplama
+- Tuple (Demet)
+- Set
+- Dictionary (Sözlük)
+- String metodları
+
+## 5. Hafta Yaptığım Çalışmalar
+
+- List Comprehension
+- Fonksiyon yapıları
+- Argüman ve return deyimi
+- *args, **kwargs ve pass deyimi
+- Global ve yerel değişkenler
+- Lambda
+
