@@ -45,3 +45,22 @@ Bu repoyu YetGen Core Jump Python Eğitimi için açtım.
 - Global ve yerel değişkenler
 - Lambda
 
+## 6. Hafta Yaptığım Çalışmalar
+
+- Modüller ve Math Modülü
+- Hata Yönetimi
+- Gömülü fonksiyonlar
+
+## 7. Hafta Yaptığım Çalışmalar
+
+- Tekrar çalışması
+
+## 8. Hafta Yaptığım Çalışmalar
+
+- Dosya İşlemleri
+- Nesne Yönelimli Programlamaya Giriş
+
+## 9. Hafta Yaptığım Çalışmalar
+
+- Nesne Yönelimli Programlamada Method Kullanımı
+- Inheritance
