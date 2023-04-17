@@ -1,0 +1,4 @@
+Ad Soyad	Yaş	Boy	Kilo	VKİ	Kategori
+Furkan Ayden	53	172.0	80.0	268.75	İleri derecede obez (morbid obez)
+Güllü Kazen	14	165.0	56.0	526.15	İleri derecede obez (morbid obez)
+Sıla Ertaş	19	164.0	55.0	542.15	İleri derecede obez (morbid obez)
