@@ -1,0 +1,2 @@
+Kitap = 135.0 TL
+Silgi = 45.0 TL
