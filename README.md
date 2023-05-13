@@ -64,3 +64,20 @@ Bu repoyu YetGen Core Jump Python Eğitimi için açtım.
 
 - Nesne Yönelimli Programlamada Method Kullanımı
 - Inheritance
+
+## 10. Hafta Yaptığım Çalışmalar
+
+- Numpy Nedir ve Neden Numpy Kullanıyoruz?
+- Temel Numpy Özellikleri
+- Numpy Detayları
+
+## 11. Hafta Yaptığım Çalışmalar
+
+- Pandas ve Pandas Serileri
+- Pandas Detayları
+- Pandas ve Matplotlib
+
+## 12. Hafta Yaptığım Çalışmalar
+
+- Otopark Projesi
+
